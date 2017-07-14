@@ -1,5 +1,6 @@
 Projects For LibGit2
 ====================
+second commit
 
 So, you want to start helping out with `libgit2`? That's fantastic! We
 welcome contributions and we promise we'll try to be nice.
