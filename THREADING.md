@@ -1,5 +1,5 @@
 Threads in libgit2
-==================
+third commit
 
 You may safely use any libgit2 object from any thread, though there
 may be issues depending on the cryptographic libraries libgit2 or its
